@@ -1,5 +1,7 @@
 # SafeSphere – Disaster Preparedness and Response Education System
 
+🌐 **Live Demo:** https://safesphere-kcas.onrender.com
+
 SafeSphere is an educational App & Web platform designed to help students and educators learn disaster preparedness, safety, and emergency response through interactive and engaging learning.
 
 ## 🚀 Key Features
@@ -13,7 +15,7 @@ SafeSphere is an educational App & Web platform designed to help students and ed
 * 🌐 **Inclusive Access** – Multilingual, offline, and cross-device support.
 * 👩‍🏫 **Curriculum Integration** – Teacher dashboards and student performance tracking.
 * 📱 **Offline Mode** – Access learning modules and important resources without internet.
-* ☁️ **Future-Ready Technology** – Uses AI, IoT, cloud technologies, and gamification.
+* ☁️ **Future-Ready Technology** – AI, IoT, cloud technologies, and gamification.
 
 ## 🎯 Objective
 
@@ -31,4 +33,5 @@ To make disaster preparedness education accessible, interactive, inclusive, and 
 ## 🌟 Innovation
 
 SafeSphere combines disaster education with AI-powered alerts, immersive drills, gamification, offline learning, and resilience-focused wellbeing support to create a future-ready disaster preparedness platform.
+
 
